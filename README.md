@@ -6,7 +6,7 @@ In this course, you have learned about several common network attacks. You have 
 
 Be sure to complete this activity before moving on. The next course item will provide you with a completed exemplar to compare to your own work. 
 
-### Example [How to read the Wireshark TCP/HTTP](https://docs.google.com/document/d/1yKZ7cr3tuq-fiKOGi-U2uFB-G1WLr4073faEu1X4D5U/edit?usp=sharing)
+### Example: [How to read the Wireshark TCP/HTTP](https://docs.google.com/document/d/1yKZ7cr3tuq-fiKOGi-U2uFB-G1WLr4073faEu1X4D5U/edit?usp=sharing)
 
 ## Scenario
 Review the following scenario. Then complete the step-by-step instructions.
@@ -19,9 +19,9 @@ You use a packet sniffer to capture data packets in transit to and from the web 
 
 You take the server offline temporarily so that the machine can recover and return to a normal operating status. You also configure the company’s firewall to block the IP address that was sending the abnormal number of SYN requests. You know that your IP blocking solution won’t last long, as an attacker can spoof other IP addresses to get around this block. You need to alert your manager about this problem quickly and discuss the next steps to stop this attacker and prevent this problem from happening again. You will need to be prepared to tell your boss about the type of attack you discovered and how it was affecting the web server and employees.
 
-# Activity: [Wireshark TCP/HTTP log](https://docs.google.com/spreadsheets/d/1v8V2NO8yh6kCqNUuKsQOh7zRTGta_B2_pmCDzDeyDlE/edit?usp=sharing)
+## Activity: [Wireshark TCP/HTTP log](https://docs.google.com/spreadsheets/d/1v8V2NO8yh6kCqNUuKsQOh7zRTGta_B2_pmCDzDeyDlE/edit?usp=sharing)
 
-# Cybersecurity Incident Report
+## Cybersecurity Incident Report
 ## Section 1: Identify the type of attack that may have caused this network interruption: 
 From the table of Wireshark TCP/HTTP, the `203.0.113.0` is the only attacker IP address that uses SYN flood attack, which is one of the DoS attacks to the company IP address `192.0.2.1` caused the web server stops responding and website's connection timeout error message.
 
