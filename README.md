@@ -5,6 +5,9 @@ In this activity, you will consider a scenario involving a customer of the compa
 In this course, you have learned about several common network attacks. You have learned their names, how they are carried out, and the characteristics of each attack from the perspective of the target. Understanding how attacks impact a network will help you troubleshoot issues on your organization’s network. It will also help you take steps to mitigate damage and protect a network from future attacks.
 
 Be sure to complete this activity before moving on. The next course item will provide you with a completed exemplar to compare to your own work. 
+
+### Example [How to read the Wireshark TCP/HTTP](https://docs.google.com/document/d/1yKZ7cr3tuq-fiKOGi-U2uFB-G1WLr4073faEu1X4D5U/edit?usp=sharing)
+
 ## Scenario
 Review the following scenario. Then complete the step-by-step instructions.
 
